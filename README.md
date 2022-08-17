@@ -6,7 +6,7 @@ This challenge is based on https://ethernaut.openzeppelin.com/
 
 1. CoinFlip ✅
 2. Delegation ✅
-3. Force
+3. Force ✅
 4. Vault
 5. King
 6. Reentrance
